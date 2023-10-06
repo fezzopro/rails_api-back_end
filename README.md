@@ -59,7 +59,7 @@
 - React & Rails connected
 
 ### Link to Frontend
-[React Frontend](https://github.com/fezzopro/rails_api-react_front_end/tree/set-up-project/frontend)
+[React Frontend](https://github.com/fezzopro/rails_api-react_front_end/tree/set-up-project)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
