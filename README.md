@@ -1,4 +1,4 @@
-[![CI](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/ci.yml/badge.svg)](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/ci.yml)  [![Linters](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/linters.yml/badge.svg?branch=set-up-project)](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/linters.yml)
+[![CI](https://github.com/fezzopro/rails_api-back_end/actions/workflows/ci.yml/badge.svg)](https://github.com/fezzopro/rails_api-back_end/actions/workflows/ci.yml)  [![Linters](https://github.com/fezzopro/rails_api-back_end/actions/workflows/linters.yml/badge.svg?branch=set-up-project)](https://github.com/fezzopro/rails_api-back_end/actions/workflows/linters.yml)
 
 <a name="readme-top"></a>
 
@@ -79,8 +79,8 @@ Clone this repository to your desired folder:
 
 ```sh
 
-  RUN git clone https://github.com/fezzopro/rails_api-react_front_end.git
-  RUN cd rails_api-react_front_end
+  RUN git clone https://github.com/fezzopro/rails_api-back_end.git
+  RUN cd rails_api-back_end
   RUN git checkout set-up-project
 
   CREATE a .env file on your backend/ directory
@@ -141,7 +141,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/fezzopro/rails_api-react_front_end/issues).
+Feel free to check the [issues page](https://github.com/fezzopro/rails_api-back_end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
