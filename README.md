@@ -1,11 +1,11 @@
-[![CI](https://github.com/fezzopro/rails_api-back_end/actions/workflows/ci.yml/badge.svg)](https://github.com/fezzopro/rails_api-back_end/actions/workflows/ci.yml)  [![Linters](https://github.com/fezzopro/rails_api-back_end/actions/workflows/linters.yml/badge.svg?branch=set-up-project)](https://github.com/fezzopro/rails_api-back_end/actions/workflows/linters.yml)
+[![CI](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/ci.yml/badge.svg)](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/ci.yml) [![Linters](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/linters.yml/badge.svg?branch=set-up-project)](https://github.com/fezzopro/rails_api-react_front_end/actions/workflows/linters.yml)
 
 <a name="readme-top"></a>
 
 <div align="center">
 
   <br/>
-  <h1>rails API && react front-end</h1>
+  <h1>rails API </h1>
 
 </div>
 
