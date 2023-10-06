@@ -15,6 +15,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+- [Link to Frontend](#link-to-frontend)
 - [💻 Getting Started ](#-getting-started-)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -56,6 +57,11 @@
 ### Key Features <a name="key-features"></a>
 
 - React & Rails connected
+
+### Link to Frontend
+[React Frontend](https://github.com/fezzopro/rails_api-react_front_end/tree/set-up-project/frontend)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
